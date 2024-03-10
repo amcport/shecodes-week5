@@ -1,6 +1,8 @@
-body {
-  background: #e6dcff;
-  font-family: "Roboto", sans-serif;
+@media (min-width: 400px) {
+  body {
+    background: #e6dcff;
+    font-family: "Roboto", sans-serif;
+  }
 }
 
 a {
