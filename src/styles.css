@@ -1,4 +1,9 @@
-@media (min-width: 400px) {
+body {
+  background: #e6dbff;
+  font-family: "Roboto", sans-serif;
+}
+
+@media (min-width: 90%) {
   body {
     background: #e6dbff;
     font-family: "Roboto", sans-serif;
